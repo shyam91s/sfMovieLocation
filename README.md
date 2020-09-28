@@ -1,6 +1,7 @@
 # SF Movie Shoot Location Server
 
-Step 1 : Clone the Project
-Step 2 : Move to project directory
-Step 3 : npm install
-Step 4 : npm start
+- Clone the Project
+- Move to project directory
+- cretae .env file and add mongo db path to "MONGODB_URI" variable
+- npm install
+- npm start
